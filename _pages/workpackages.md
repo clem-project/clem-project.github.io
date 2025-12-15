@@ -5,7 +5,7 @@ title: "Work Packages"
 description: the description of project's work packages
 nav: true
 nav_order: 2
-display_categories: [work,fun]
+# display_categories: [work, fun]
 horizontal: true
 ---
 

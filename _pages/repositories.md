@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description:  Links to CLEM's Github repositories
+description: Links to CLEM's Github repositories
 nav: true
 nav_order: 4
 ---
