@@ -23,4 +23,8 @@ profiles:
     image: pic_khelladi_djamel_eddine.jpg
     content: about_djamel.md
     image_circular: true
+  - align: left
+    image: pic_bourcier_valentin.jpg
+    content: about_valentin.md
+    image_circular: true
 ---
