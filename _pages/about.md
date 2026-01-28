@@ -63,3 +63,40 @@ execution engines that offers interactive model execution. This architecture wil
 necessary tool interfaces and language protocols for integrating interactive model exploration tools.
 Moreover, we will establish language design principles to enable these capabilities for any modeling
 language.
+
+
+
+## Funding & Partners
+<div markdown="0" class="partner-logos container" style="width:100%;">
+  <div markdown="0" class="row mb-3">
+    <div class="col col-md-6">
+      <a href="https://www.anr.fr/en/" target="_blank" rel="noopener">
+        <img src="/assets/img/logopic/ANR_logo.png" alt="ANR" style="max-width:100%;height:auto;object-fit:contain;display:block;">
+      </a>
+    </div>
+    <div class="col col-md-6">
+      <a href="https://www.fwf.ac.at/en/" target="_blank" rel="noopener">
+        <img src="/assets/img/logopic/FWF_logo.png" alt="FWF" style="max-width:100%;height:auto;object-fit:contain;display:block;">
+      </a>
+    </div>
+  </div>
+  <div markdown="0" class="row justify-content-center text-center align-items-center">
+    <div class="col col-md-6">
+      <a href="https://www.univ-rennes.fr/en" target="_blank" rel="noopener">
+        <img src="/assets/img/logopic/URennes-logo.png" alt="University of Rennes" style="max-width:100%;height:auto;object-fit:contain;display:block;">
+      </a>
+    </div>
+    <div class="col col-md-6">
+      <a href="https://www.inria.fr/en" target="_blank" rel="noopener">
+        <img src="/assets/img/logopic/INRIA-logo.png" alt="Inria" style="max-width:100%;height:auto;object-fit:contain;display:block;">
+      </a>
+    </div>
+    <div class="col col-md-10">
+      <a href="https://www.jku.at/en/" target="_blank" rel="noopener">
+        <img src="/assets/img/logopic/JKU_logo.png" alt="JKU Linz" style="max-width:100%;height:auto;object-fit:contain;display:block;">
+      </a>
+    </div>
+  </div>
+</div>
+
+
