@@ -37,12 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "news-open-phd-position-at-jku-linz",
-          title: 'Open PhD Position at JKU Linz',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2025-12-phd_in_linz/";
-            },},{id: "news-open-phd-position-at-university-of-rennes",
+        },{id: "news-open-phd-position-at-university-of-rennes",
           title: 'Open PhD Position at University of Rennes',
           description: "",
           section: "News",handler: () => {
