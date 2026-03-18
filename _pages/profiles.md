@@ -27,4 +27,8 @@ profiles:
     image: pic_bourcier_valentin.jpg
     content: about_valentin.md
     image_circular: true
+  - align: left
+    image: pic_fadhlillah_sayyid.jpg
+    content: about_sayyid.md
+    image_circular: true
 ---
