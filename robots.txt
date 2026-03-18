@@ -1,4 +1,6 @@
 User-agent: *
-Disallow:
+Disallow: /assets/img/
+Disallow: /*.jpg$
+Disallow: /*.png$
 
 Sitemap: https://clem-project.github.io/sitemap.xml
