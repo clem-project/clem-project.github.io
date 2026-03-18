@@ -67,6 +67,9 @@ language.
 
 
 ## Funding & Partners
+
+This work was supported in whole or in part by the ANR/FWF project CLEM (ANR-25-CE25-3814 and 10.55776/PIN3686425).
+
 <div markdown="0" class="partner-logos container" style="width:100%;">
   <div markdown="0" class="row mb-3">
     <div class="col col-md-6">
@@ -84,11 +87,6 @@ language.
     <div class="col col-md-6">
       <a href="https://www.univ-rennes.fr/en" target="_blank" rel="noopener">
         <img src="/assets/img/logopic/URennes-logo.png" alt="University of Rennes" style="max-width:100%;height:auto;object-fit:contain;display:block;">
-      </a>
-    </div>
-    <div class="col col-md-6">
-      <a href="https://www.inria.fr/en" target="_blank" rel="noopener">
-        <img src="/assets/img/logopic/INRIA-logo.png" alt="Inria" style="max-width:100%;height:auto;object-fit:contain;display:block;">
       </a>
     </div>
     <div class="col col-md-10">
