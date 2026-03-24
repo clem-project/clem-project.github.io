@@ -49,6 +49,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-12-phd_in_rennes/";
+            },},{id: "news-kick-off-of-joint-anr-fwf-research-project-clem",
+          title: 'Kick-off of Joint ANR/FWF Research Project CLEM',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-24-kickoff-anr-fwf-clem/";
             },},{id: "workpackages-wp1-live-and-exploratory-modeling-foundations",
           title: 'WP1: Live and Exploratory Modeling Foundations',
           description: "Establishing theoretical and methodological foundations for live and exploratory modeling",
