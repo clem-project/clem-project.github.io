@@ -64,8 +64,6 @@ necessary tool interfaces and language protocols for integrating interactive mod
 Moreover, we will establish language design principles to enable these capabilities for any modeling
 language.
 
-
-
 ## Funding & Partners
 
 This work was supported in whole or in part by the ANR/FWF project CLEM (ANR-25-CE25-3814 and 10.55776/PIN3686425).
@@ -96,5 +94,3 @@ This work was supported in whole or in part by the ANR/FWF project CLEM (ANR-25-
     </div>
   </div>
 </div>
-
-

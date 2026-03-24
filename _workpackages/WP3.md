@@ -10,7 +10,6 @@ related_publications: true
 
 WP3 investigates the integration of artificial intelligence and machine learning techniques to provide intelligent assistance for model creation, validation, and optimization.
 
-
 ## Objectives
 
 This WP develops comprehensive language workbench support for live and exploratory modeling. It combines execution engine integration (from WP1) with user-facing interfaces (from WP2), resulting in a practical platform for xDSML developers. The workbench provides end-to-end support for designing, executing, and exploring models live.
@@ -34,7 +33,6 @@ This WP develops comprehensive language workbench support for live and explorato
 **Description:** Integration of search-based and generative techniques for model generation and exploration within the workbench. This includes automated test case generation via search algorithms, guided exploration through optimization heuristics, and systematic exploration of design alternatives to accelerate model development and validation.
 
 **Challenge:** Ensuring search algorithms scale to realistic model sizes and deliver actionable results.
-
 
 #### Task T3.3: Workbench Release, Testing, and Documentation (Lead: JKU)
 

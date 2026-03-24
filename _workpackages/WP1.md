@@ -30,7 +30,6 @@ The work package proceeds iteratively, ensuring regular synchronization between 
 
 **Challenge:** Finding a way to represent, modify, and explore a potentially large and diverse set of runtime states. If a combined view of IF and DM is not easily representable, the integration will fall back to separated representations.
 
-
 #### Task T1.2: Exploration Strategies for Exploratory Modeling (Lead: JKU)
 
 **Description:** Development of exploratory modeling strategies and preparation of using EM as a solution for direct manipulation (DM). The goal is rapid prototypical implementation for integration in LEM, followed by iterations producing search strategies, computation cost-reduction measures, and user constraint integration.
@@ -40,4 +39,3 @@ The work package proceeds iteratively, ensuring regular synchronization between 
 ## Deliverables
 
 {% include workpackage_deliverables.liquid wp_key="wp1" %}
-

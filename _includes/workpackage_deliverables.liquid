@@ -2,30 +2,32 @@
 {% assign deliverables = site.data.workpackage_deliverables[wp_key] %}
 
 {% if deliverables and deliverables.size > 0 %}
-<table class="table table-sm table-hover">
-  <thead>
-    <tr>
-      <th scope="col">Deliverable</th>
-      <th scope="col">Type</th>
-      <th scope="col">Download</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for deliverable in deliverables %}
-    <tr>
-      <td><strong>{{ deliverable.id }}</strong> - {{ deliverable.title }}</td>
-      <td>{{ deliverable.type }}</td>
-      <td>
-        {% if deliverable.artifact_url %}
-          <a href="{{ deliverable.artifact_url | relative_url }}" download>Download</a>
-        {% else %}
-          <span>Coming Soon</span>
-        {% endif %}
-      </td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
+  <table class="table table-sm table-hover">
+    <thead>
+      <tr>
+        <th scope="col">Deliverable</th>
+        <th scope="col">Type</th>
+        <th scope="col">Download</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for deliverable in deliverables %}
+        <tr>
+          <td>
+            <strong>{{ deliverable.id }}</strong> - {{ deliverable.title }}
+          </td>
+          <td>{{ deliverable.type }}</td>
+          <td>
+            {% if deliverable.artifact_url %}
+              <a href="{{ deliverable.artifact_url | relative_url }}" download>Download</a>
+            {% else %}
+              <span>Coming Soon</span>
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
 {% else %}
-<p>No deliverables listed yet.</p>
+  <p>No deliverables listed yet.</p>
 {% endif %}

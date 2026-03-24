@@ -6,7 +6,6 @@ inline: false
 related_posts: false
 ---
 
-
 # Agentic AI and Live Programming for Exploring and Optimizing Extra-Functional Properties in Software Systems (CLEM - PhD Univ. Rennes)
 
 ## Context
