@@ -41,3 +41,7 @@ This WP develops comprehensive language workbench support for live and explorato
 **Description:** Comprehensive testing, quality assurance, and documentation of the LEM-enabled workbench. This includes integration testing, performance benchmarking, user testing with case studies, and creation of tutorials, guides, and API documentation for developers adopting the workbench.
 
 **Challenge:** Coordinating testing efforts across multiple components and ensuring documentation reflects the evolving feature set.
+
+## Deliverables
+
+{% include workpackage_deliverables.liquid wp_key="wp3" %}

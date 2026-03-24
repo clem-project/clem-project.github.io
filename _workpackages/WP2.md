@@ -31,3 +31,7 @@ WP2 proceeds in parallel with WP1 to ensure that xDSMLs match the specific IF an
 #### Task T2.2: Modeling Interface for Design Space Exploration (Lead: JKU)
 
 **Description:** Development of a modeling interface enabling Design Space Exploration (DSE) for xDSMLs. The interface allows users to define, visualize, generate, and navigate alternative model configurations, constraints, and objectives while integrating exploration algorithms. The goal is to facilitate informed decision-making through interactive guidance, real-time feedback, and optimization techniques.
+
+## Deliverables
+
+{% include workpackage_deliverables.liquid wp_key="wp2" %}

@@ -37,3 +37,7 @@ The work package proceeds iteratively, ensuring regular synchronization between 
 
 **Challenge:** The large search space that must be explored to reach a given runtime state. Mitigation through metaheuristic and search-based solutions as cost-limited options.
 
+## Deliverables
+
+{% include workpackage_deliverables.liquid wp_key="wp1" %}
+

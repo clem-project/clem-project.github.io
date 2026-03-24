@@ -1,0 +1,149 @@
+wp0:
+  - id: "D-0.1.1"
+    title: "Research data management plan"
+    type: "Report"
+    artifact_url:
+  - id: "D-0.1.2"
+    title: "Research data management infrastructure"
+    type: "Software"
+    artifact_url:
+  - id: "D-0.1.3"
+    title: "Annual project reports"
+    type: "Report"
+    artifact_url:
+  - id: "D-0.1.6"
+    title: "Final Project Report"
+    type: "Report"
+    artifact_url:
+  - id: "D-0.2.1"
+    title: "Kickoff Meeting"
+    type: "Meeting"
+    artifact_url:
+  - id: "D-0.2.2"
+    title: "Annual Technical Meetings"
+    type: "Meeting"
+    artifact_url:
+  - id: "D-0.2.3"
+    title: "Annual Project Meetings"
+    type: "Meeting"
+    artifact_url:
+  - id: "D-0.3.1"
+    title: "Project Website"
+    type: "Software"
+    artifact_url:
+  - id: "D-0.3.2"
+    title: "Public Repository for Software and Artefacts"
+    type: "Software"
+    artifact_url:
+  - id: "D-0.3.3"
+    title: "Open Source Repository for Publishing Artefacts"
+    type: "Software"
+    artifact_url:
+  - id: "D-0.3.4"
+    title: "Industrial results dissemination"
+    type: "Report"
+    artifact_url:
+  - id: "D-0.4.1"
+    title: "Short-term strategy for the exploitation for CLEM results"
+    type: "Report"
+    artifact_url:
+  - id: "D-0.4.2"
+    title: "Long-term exploitation strategy for CLEM results"
+    type: "Report"
+    artifact_url:
+
+wp1:
+  - id: "D-1.1.1"
+    title: "Design Spec. for Coupling Live and Exploratory Modeling"
+    type: "Report"
+    artifact_url:
+  - id: "D-1.1.2"
+    title: "Initial Interaction Prototype"
+    type: "Software"
+    artifact_url:
+  - id: "D-1.1.3"
+    title: "Finished Interaction Component"
+    type: "Software"
+    artifact_url:
+  - id: "D-1.2.1"
+    title: "Design Spec. for Exploratory Modeling"
+    type: "Report"
+    artifact_url:
+  - id: "D-1.2.2"
+    title: "Initial prototypical implementation of EM"
+    type: "Software"
+    artifact_url:
+  - id: "D-1.2.3"
+    title: "User-input guided exploratory modeling"
+    type: "Software"
+    artifact_url:
+
+wp2:
+  - id: "D-2.1.1"
+    title: "Interactive Modeling Interface Design Spec."
+    type: "Report"
+    artifact_url:
+  - id: "D-2.1.2"
+    title: "Interactive Modeling Interface (Prototype and Complete)"
+    type: "Report"
+    artifact_url:
+  - id: "D-2.2.1"
+    title: "DSE Interface Specification"
+    type: "Report"
+    artifact_url:
+  - id: "D-2.2.2"
+    title: "Interactive DSE Interface Prototype"
+    type: "Software"
+    artifact_url:
+
+wp3:
+  - id: "D-3.1.1"
+    title: "Technical Design Document"
+    type: "Report"
+    artifact_url:
+  - id: "D-3.1.2"
+    title: "Finished Implementation"
+    type: "Software"
+    artifact_url:
+  - id: "D-3.2.1"
+    title: "Generative Integration Design Spec."
+    type: "Report"
+    artifact_url:
+  - id: "D-3.2.2"
+    title: "Prototypical Generative Integration"
+    type: "Software"
+    artifact_url:
+  - id: "D-3.2.3"
+    title: "Final Generative Integration"
+    type: "Software"
+    artifact_url:
+  - id: "D-3.3.1"
+    title: "CI/CD Pipeline and Documentation"
+    type: "Software"
+    artifact_url:
+  - id: "D-3.3.2"
+    title: "xDSML Workbench with LEM support"
+    type: "Software"
+    artifact_url:
+
+wp4:
+  - id: "D-4.1.1"
+    title: "Case Study Language Selection"
+    type: "Report"
+    artifact_url:
+  - id: "D-4.1.2"
+    title: "Case Study Requirements Analysis Evaluation"
+    type: "Report"
+    artifact_url:
+  - id: "D-4.3.1"
+    title: "Case Study Specification"
+    type: "Report"
+    artifact_url:
+  - id: "D-4.3.1"
+    title: "Evaluation of LEM in Case Studies"
+    type: "Report"
+    artifact_url:
+  - id: "D-4.3.2"
+    title: "Open Source LEM Evaluation Artefacts"
+    type: "Software"
+    artifact_url:

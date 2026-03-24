@@ -33,3 +33,7 @@ Case studies are central to the CLEM project: they drive requirements analysis f
 **Description:** Experimental validation of LEM concepts and tools through implementation and execution of case study models. Evaluation of live execution performance, exploratory modeling effectiveness, and user experience. Gathering metrics on model quality, discovery time, and developer productivity using the LEM-enabled workbench. Comparative analysis against baseline modeling approaches.
 
 **Challenge:** Defining relevant metrics and establishing fair baselines for comparison; ensuring case studies are representative without becoming unwieldy.
+
+## Deliverables
+
+{% include workpackage_deliverables.liquid wp_key="wp4" %}
