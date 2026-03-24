@@ -54,6 +54,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-24-kickoff-anr-fwf-clem/";
+            },},{id: "workpackages-wp0-project-coordination-and-dissemination",
+          title: 'WP0: Project Coordination and Dissemination',
+          description: "Management, meetings, dissemination, and exploitation activities across the project",
+          section: "Workpackages",handler: () => {
+              window.location.href = "/workpackages/WP0/";
             },},{id: "workpackages-wp1-live-and-exploratory-modeling-foundations",
           title: 'WP1: Live and Exploratory Modeling Foundations',
           description: "Establishing theoretical and methodological foundations for live and exploratory modeling",
