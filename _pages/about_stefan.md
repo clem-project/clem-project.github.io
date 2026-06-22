@@ -4,4 +4,4 @@ Stefan Klikovits is a University Assistant at the Department of Business Informa
 
 Before joining JKU, he was a postdoctoral researcher at the National Institute of Informatics in Tokyo. His research covers modeling, simulation, and verification of complex systems such as autonomous vehicles, automation, and smart farming, with recent work on scenario generation using search-based techniques.
 
-More: [se.jku.at/stefan-klikovits](https://se.jku.at/stefan-klikovits/) | [klikovits.net](https://klikovits.net/)
+More: [se.jku.at/stefan-klikovits](https://se.jku.at/stefan-klikovits/) · [klikovits.net](https://klikovits.net/)

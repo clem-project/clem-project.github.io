@@ -2,6 +2,7 @@
 layout: page
 permalink: /workpackages/
 title: "Work Packages"
+nav_title: Workpackages
 description: the description of project's work packages
 nav: true
 nav_order: 2

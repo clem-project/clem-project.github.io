@@ -3,4 +3,9 @@ module.exports = {
   css: ["_site/assets/css/*.css"],
   output: "_site/assets/css/",
   skippedContentGlobs: ["_site/assets/**/*.html"],
+  safelist: {
+    standard: [/^profile-entry/, /^profile-body/, /^profile-align/, /^profile$/],
+    deep: [/profile-entry/, /profile-body/],
+    greedy: [/profile-align/],
+  },
 };
