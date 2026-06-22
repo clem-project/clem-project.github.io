@@ -20,6 +20,10 @@ profiles:
     content: about_stefan.md
     image_circular: true
   - align: left
+    image: pic_dehghani_mohammadhadi.jpg
+    content: about_dehghani.md
+    image_circular: true
+  - align: left
     image: pic_khelladi_djamel_eddine.jpg
     content: about_djamel.md
     image_circular: true

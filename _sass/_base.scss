@@ -218,6 +218,55 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+.profile-entry {
+  clear: both;
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1rem;
+
+  .profile {
+    flex: 0 0 30%;
+    max-width: 30%;
+    width: 30%;
+    float: none;
+  }
+
+  .profile.float-left,
+  .profile.float-right {
+    margin: 0;
+  }
+
+  &:has(.profile.float-right) {
+    flex-direction: row-reverse;
+  }
+
+  .profile-body {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
+  .profile figure,
+  .profile img {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  @media (max-width: 575.98px) {
+    flex-direction: column;
+
+    .profile {
+      flex: 0 0 auto;
+      max-width: 100%;
+      width: 100%;
+    }
+
+    &:has(.profile.float-right) {
+      flex-direction: column;
+    }
+  }
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
@@ -303,6 +352,7 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
+    white-space: nowrap;
 
     &:hover {
       color: var(--global-hover-color);
