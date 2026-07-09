@@ -35,4 +35,8 @@ profiles:
     image: pic_fadhlillah_sayyid.jpg
     content: about_sayyid.md
     image_circular: true
+  - align: left
+    image: pic_doderlein_jean-baptiste.jpg
+    content: about_jb.md
+    image_circular: true
 ---
